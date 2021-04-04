@@ -107,21 +107,6 @@ Method: GET
 ]
 ```
 
-<br>
-Test Instruction:
-<br>
-
-* You will be given 2 hours to complete the test.
-* Please avoid adding any new dependency to project.
-* Make sure to follow all the instruction properly to get the maximum score.
-* You must have Node, Yarn and Code Editor of your choice install on your system to continue with the test.
-* Use Help Button, for any query related to the problem statement.
-* Once the test is completed, please make sure to submit `App.js`
-
-<br>
-
-All the best!
-
 
   [1]: https://cdn.skillenza.com/files/3dcde399-67dd-43fa-8e7b-0b96fe269172/flightbooking.zip
   [2]: https://cdn.skillenza.com/files/23e8d4cb-d3bc-46a1-89a0-0ca6ce5c24ab/Screenshot_from_2021-02-05_07-46-59.png
